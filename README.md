@@ -7,7 +7,7 @@ ________________________________________________________________________________
 2. Open MySQL WorkBench or any SQL Management Tool and Import the file/database 
 3. Write SQL scripts to answer all questions below. 
 4. Save, Export and rename the file to solution.sql Click to play : (https://www.youtube.com/watch?v=fX4-YiXxTn0 )
-5. Add solution.sql to the same repo
+5. Add file solution.sql to the same repo
 __________________________________________________________________________________________________
 ## Question 1
 Imagine you have a table named "Customers" with columns for "customer_id" (number), "name" (text), and "city" (text). See the pre-populated Table found in the database above-named 8Week.sql.
