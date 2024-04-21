@@ -3,14 +3,14 @@
 __________________________________________________________________________________________________
 ## Instructions (Read and follow instructions)
 
-1. Download 8week.sql file/database from this repo.
+1. Download 8Week.sql file/database from this repo.
 2. Open MySQL WorkBench or any SQL Management Tool and Import the file/database 
 3. Write SQL scripts to answer all questions below. 
 4. Save, Export and rename the file to solution.sql Click to play : (https://www.youtube.com/watch?v=fX4-YiXxTn0 )
 5. Add solution.sql to the same repo
 __________________________________________________________________________________________________
 ## Question 1
-Imagine you have a table named "Customers" with columns for "customer_id" (number), "name" (text), and "city" (text). See the pre-populated Table found in the database above-named 8week.sql.
+Imagine you have a table named "Customers" with columns for "customer_id" (number), "name" (text), and "city" (text). See the pre-populated Table found in the database above-named 8Week.sql.
 Write an SQL statement to add a new customer named "Alice Smith" living in "New York City" to the table.
 
 ## Question 2
